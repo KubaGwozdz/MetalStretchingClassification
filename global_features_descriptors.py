@@ -27,4 +27,3 @@ def get_features(df):
         labels.append(data.category)
         features.append(img_features)
     return features, labels
-
